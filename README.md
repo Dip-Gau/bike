@@ -4,4 +4,4 @@ Pulsar
 
 Apache
 
-Hayabusa
+Duke 390
